@@ -11,7 +11,7 @@ cd messing_around_with_scikit_learn
 python3 <<path_to_python_script>>
 ```
 
-Optionally, you could execute the scripts in the PyCharm IDE which is what I used.
+Alternatively, you could execute the scripts in the PyCharm IDE which is what I used.
 
 ## UCI Machine Learning datasets
 
