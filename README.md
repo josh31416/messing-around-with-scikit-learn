@@ -16,5 +16,5 @@ Alternatively, you could execute the scripts in the PyCharm IDE which is what I 
 ## UCI Machine Learning datasets
 
 - [Adult Data Set](https://github.com/josh31416/messing_around_with_scikit_learn/tree/master/adult_uci_dataset)
-- [Titanic Kaggle dataset](https://github.com/josh31416/messing_around_with_scikit_learn/tree/master/titanic_kaggle)
-- [Iris UCI dataset](https://github.com/josh31416/messing_around_with_scikit_learn/tree/master/iris_uci_dataset)
+- [Titanic Kaggle Data Set](https://github.com/josh31416/messing_around_with_scikit_learn/tree/master/titanic_kaggle)
+- [Iris UCI Data Set](https://github.com/josh31416/messing_around_with_scikit_learn/tree/master/iris_uci_dataset)
